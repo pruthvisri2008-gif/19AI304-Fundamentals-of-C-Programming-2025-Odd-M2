@@ -192,7 +192,6 @@ int main()
 {
     int n, i = 2, f = 0;
 
-    printf("Enter a number: ");
     scanf("%d", &n);
 
     while(i <= n - 1)
